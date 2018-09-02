@@ -1,2 +1,2 @@
 # SlashZero-Resources
-Resourcews repository for SlashZero
+Resources repository for SlashZero
